@@ -84,8 +84,8 @@ Creates a new ticker. <br>
 Creates a simple server to check the code. <br>
 
 ### Structure ToketBucket
-Rate is a number of requests per interval. <br>
-bufChan is a buffered channel with units.
-T is a channel received from the ticker.
-aChan is a channel w/o a buf.
+*Rate* is a number of requests per interval. <br>
+*bufChan* is a buffered channel with units. <br>
+*T* is a channel received from the ticker. <br>
+*aChan* is a channel w/o a buf.
 
